@@ -1,0 +1,16 @@
+#Change title as required
+title: PREDICTING_PROBABILITY_OF_PAYING_BLIGHT_TICKETS
+
+#Change description: as required
+description: In this project, I will focus on the problem at hand, helping the city enforce fines by predicting whether a person is going to comply with a property maintenance fine or not.
+
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+      type: "html"
+    values:
+      layout: "default"
